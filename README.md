@@ -19,6 +19,7 @@ Ele é usado amplamente em:
 - Estatística
 - Simulações numéricas e mais.
 
+---
 
 💡 Observações
 
@@ -26,6 +27,7 @@ Ele é usado amplamente em:
 
 * É um ótimo ponto de partida para aprender a trabalhar com dados numéricos de forma eficiente.
 
+---
 
 📂 Como usar
 
@@ -35,12 +37,15 @@ Ele é usado amplamente em:
 
 * Explore modificando os exemplos e criando seus próprios arrays!
 
+---
 
 🚀 Requisitos
-Python 3.x
 
-Pacote numpy (instalado por padrão no Colab)
+* Python 3.x
 
+* Pacote numpy (instalado por padrão no Colab)
+
+---
 
 🧑‍💻 Autor
 
@@ -48,6 +53,7 @@ Pacote numpy (instalado por padrão no Colab)
 
 * Este projeto faz parte dos estudos práticos com Python + NumPy.
 
+---
 
 📚 Licença
 
