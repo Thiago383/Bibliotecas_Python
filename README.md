@@ -18,3 +18,29 @@ Ele é usado amplamente em:
 - Inteligência Artificial
 - Estatística
 - Simulações numéricas e mais.
+
+💡 Observações
+O código está escrito em Python 3 e pode ser executado diretamente no Google Colab.
+
+É um ótimo ponto de partida para aprender a trabalhar com dados numéricos de forma eficiente.
+
+📂 Como usar
+Abra o notebook no Google Colab
+
+Execute célula por célula para visualizar os resultados
+
+Explore modificando os exemplos e criando seus próprios arrays!
+
+🚀 Requisitos
+Python 3.x
+
+Pacote numpy (instalado por padrão no Colab)
+
+🧑‍💻 Autor
+Feito por Thiago383 – Estudante de Análise de Dados.
+Este projeto faz parte dos estudos práticos com Python + NumPy.
+
+📚 Licença
+Este projeto está sob a licença MIT.
+Sinta-se livre para usar e modificar!
+
